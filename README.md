@@ -1,4 +1,4 @@
-# records
+# protocol-gotchas
 
 A little tutorial on the gotchas of defprotocols/defrecords.  See
 `src/protocol/gotchas.clj`.
